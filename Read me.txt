@@ -1,0 +1,2 @@
+Link to the competition:	https://www.kaggle.com/c/digit-recognizer
+The train and test data can be found there. Since, the dataset exceeds the upload size, I am sending this link.
